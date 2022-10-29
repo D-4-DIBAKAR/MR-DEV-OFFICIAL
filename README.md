@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Instagram 
-- 📫 How to reach me at Instagram @programming_gyan_by_dev
+
 
 <!---
 MR-DEV-OFFICIAL/MR-DEV-OFFICIAL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
