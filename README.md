@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MR-DEV-OFFICIAL
+- 👋 Hi, I’m @MR. DEV
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Instagram 
